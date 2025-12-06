@@ -1,0 +1,7 @@
+model,count
+xgboost,8
+AutoARIMA,3
+Naive,3
+AutoETS,2
+SeasonalNaive,2
+NHITS,1
