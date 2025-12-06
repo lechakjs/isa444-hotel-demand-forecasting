@@ -1,6 +1,6 @@
 # ISA 444: Hotel Demand Forecasting Project
 
-This repository contains my full forecasting project for ISA 444 (Forecasting Analytics).  
+This repository contains my full forecasting project for ISA 444.  
 I completed **Option 1: Hotel Demand Forecasting** using the `sample_hotels.parquet` dataset.
 
 ---
